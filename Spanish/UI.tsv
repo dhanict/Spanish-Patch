@@ -1648,8 +1648,8 @@ UI_20150714_001647	{@st66b}Glow{/}
 UI_20150714_001648	{@st66b}Depth{/}
 UI_20150714_001649	{@st66b}Suavizado de Partículas{/}
 UI_20150714_001650	{@st66b}Mejores Texturas {/}
-UI_20150714_001651	{@st66b}Vertical Sync On{/}
-UI_20150714_001652	{@st66b}Vertical Sync Off{/}
+UI_20150714_001651	{@st66b}Vsync Encendida{/}
+UI_20150714_001652	{@st66b}Vsync Apagada{/}
 UI_20150714_001653	{@st66b} %s de plata es gastado cuando introduces o sacas objetos del banco.{/}
 UI_20150714_001654	¡Le gusto a %s!
 UI_20150714_001655	{@st41}Modo Espectador
