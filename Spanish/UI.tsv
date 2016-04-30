@@ -76,7 +76,7 @@ UI_20150317_000075	{@st43}Opciones de Juego{/}
 UI_20150317_000076	{@st64}¡Usa las flechas para seleccionar una celda!
 UI_20150317_000077	{@st43}Información de ascenso {/}
 UI_20150317_000078	{@st43}Selecciona una clase
-UI_20150317_000079	Psychokinesist
+UI_20150317_000079	Psicoquinesia
 UI_20150317_000080	{@st42}%s Círculo {/}
 UI_20150317_000081	Cuántos círculos
 UI_20150317_000082	Muestra una breve descripción de la clase.
@@ -259,19 +259,19 @@ UI_20150317_000258	{@st41}Localización actual : %s{/}
 UI_20150317_000259	{@st43}{s22}Teletransporte{/}
 UI_20150317_000260	{@st41b}¿Quiéres moverte a esa zona?{/}
 UI_20150317_000261	Qué pasa con Siauliai
-UI_20150317_000262	Monedas gastadas : 0
+UI_20150317_000262	Monedas gastadas: 0
 UI_20150317_000263	Introducción
 UI_20150317_000264	{@st43}Inventario{/}
 UI_20150317_000265	{@st59}Cerrar{/}
 UI_20150317_000266	{@st59b}Equipamiento {nl} {@st59s}- Pelo/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Arma: Se puede equipar armas de una mano o de dos manos {nl} (arma secundaria/escudo pueden ser equipada con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: Se pueden equipar 1 Colgante y 2 Pulseras. {nl} {/}
-UI_20150317_000267	{@st59}Acc de pelo 1{/}
-UI_20150317_000268	{@st59}Acc de pelo 2{/}
+UI_20150317_000267	{@st59}Accesorio de pelo 1{/}
+UI_20150317_000268	{@st59}Accesorio de pelo 2{/}
 UI_20150317_000269	{@st59}Colgante{/}
 UI_20150317_000270	{@st59}Ropa{/}
 UI_20150317_000271	{@st59}Pecho{/}
 UI_20150317_000272	{@st59}Guantes{/}
 UI_20150317_000273	{@st59}Pantalones{/}
-UI_20150317_000274	{@st59}botas{/}
+UI_20150317_000274	{@st59}Botas{/}
 UI_20150317_000275	{@st59}Mano Izquierda{/}
 UI_20150317_000276	{@st59}Mano Derecha{/}
 UI_20150317_000277	{@st59}Pulsera 1{/}
@@ -383,8 +383,8 @@ UI_20150317_000382	{@st44}Fuego{/}
 UI_20150317_000383	Minijuego
 UI_20150317_000384	{s18}{ol}{gr gradation1}Minijuego del Escondite{/}
 UI_20150317_000385	{s16}¿Quiéres entrar al minijuego?
-UI_20150317_000386	{s16}Participantes : (0/5)
-UI_20150317_000387	{s16}Participantes : (%s /%s)
+UI_20150317_000386	{s16}Participantes: (0/5)
+UI_20150317_000387	{s16}Participantes: (%s /%s)
 UI_20150317_000388	{s16}El juego comenzará pasado 1 segundo.
 UI_20150317_000389	{s16}El juego comenzará pasado %s segundos.
 UI_20150317_000390	{@st59}Acercar Zoom{/}
@@ -412,9 +412,9 @@ UI_20150317_000411	{@st59}Cerrar{/}
 UI_20150317_000412	{@st59}Soy demasiado vago para pensar.{/}
 UI_20150317_000413	Criatura Invocada : {#ffcc33}%s{/}
 UI_20150317_000414	Arpía no-muerta
-UI_20150317_000415	Habilidad : %s
+UI_20150317_000415	Habilidad: %s
 UI_20150317_000416	Habilidad 1, Habilidad 2
-UI_20150317_000417	Fragmentos Requeridos : %s
+UI_20150317_000417	Fragmentos Requeridos: %s
 UI_20150317_000418	Bestia 60 / Insecto 20/ Mutante 10
 UI_20150317_000419	Número de Fragmentos
 UI_20150317_000420	Partes 1
@@ -424,10 +424,10 @@ UI_20150317_000423	¡Felicidades! Has subido de nivel.
 UI_20150317_000424	Alarma de Objeto
 UI_20150317_000425	{@st64}Detalles{/}
 UI_20150317_000426	Como jugar
-UI_20150317_000427	{@st42b}          Mueve una vez con cada una de las teclas{/}
+UI_20150317_000427	{@st42b}Pulsa las teclas de direccion para moverte{/}
 UI_20150317_000428	{@st42b}       Haz un ataque básico{/}
 UI_20150317_000429	{@st42b}                Salta arriba{/}
-UI_20150317_000430	{@st42b}  Pulsa dos teclas de dirección para moverte en diagonal.{/}
+UI_20150317_000430	{@st42b}Pulsa dos teclas de dirección para moverte en diagonal.{/}
 UI_20150317_000431	Herramienta de niebla en mapa
 UI_20150317_000432	Herramienta para matar monstruos
 UI_20150317_000433	Herramienta para hacer minimapas
@@ -1738,7 +1738,7 @@ UI_20150729_001737	{@st43}Hornear Gema{/}
 UI_20150729_001738	{@st59b}Creando Objeto{nl}{@st59s} - Los objetos pueden ser creados usando recetas.{nl} - Introduce la receta y los materiales necesarios en los espacios para empezar a crear el objeto. {nl} - Puedes ponerle un nombre y un memo al objeto.{/}
 UI_20150729_001739	{@st59}Cerrar creación de Flechas{/}
 UI_20150729_001740	Fragmentos Necesarios : Mutante %s / Beastia %s / Planta %s
-UI_20150729_001741	{@st42b}         Los Espadachines pueden correr pulsando                     dos veces en una misma dirección{/}
+UI_20150729_001741	{@st42b}Los Espadachines pueden correr pulsando dos veces en una misma dirección{/}
 UI_20150729_001742	{@st41}Opciones de Grupo
 UI_20150729_001743	{@st41}Reclutamiento de Grupo
 UI_20150729_001744	{@st42}Buscar Miembros de Grupo{/}
