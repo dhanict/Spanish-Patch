@@ -2027,9 +2027,9 @@ UI_20151224_002026	Cantidad restante
 UI_20151224_002027	Cantidad restante : %s{/}
 UI_20151224_002028	{@st41}Comprar{/}
 UI_20151224_002029	{@st45tw2}Puntos{/}
-UI_20151224_002030	Por Nombre Ascendente
-UI_20151224_002031	Por Nombre Descendiente
-UI_20151224_002032	Por Fecha
+UI_20151224_002030	{s13}Por Nombre Ascendente
+UI_20151224_002031	{s13}Por Nombre Descendiente
+UI_20151224_002032	{s13}Por Fecha
 UI_20151224_002033	{@st42}Beneficios del Token{/}
 UI_20151224_002034	{@st66b}Cambiar título de la Señal
 UI_20151224_002035	{@st41b}Comer
